@@ -1,5 +1,5 @@
 # Project Name
-Victoria Electricity Demand Forecast in Pandemic
+Victoria Electricity Demand Forecasting During Covid-19
 
 ####  Project Status: [Completed]
 
@@ -16,7 +16,13 @@ The purpose of this project is to explore the electricity demand change in Victo
 
 
 Forecast Precision: 
+Hourly Demand Forecast by Tuned XGBoost
 
+<img width="637" alt="Tuned XGBosst-half-hour" src="https://user-images.githubusercontent.com/48660936/98435817-5b5b8680-212a-11eb-9c1a-c0821f0ce6e0.png">
+
+Daily Demand Forecast by Tuned XGBoost
+
+<img width="651" alt="Tuned XGBosst-DailyDemand" src="https://user-images.githubusercontent.com/48660936/98435834-7928eb80-212a-11eb-8f95-6dc0f7b352d4.png">
 
 ### Methods Used
 * Data Visualization
