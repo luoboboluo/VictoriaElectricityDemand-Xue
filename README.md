@@ -62,10 +62,13 @@ Inspired by 2020 AEMO Electricity Demand Forecasting Methodology Information Pap
    
    **Features Raw Data have been extracted from public website and resources as below:**
     -  Daily Max/Min temperature data
-       [Melbourne Maximum Daily Temperature Data](http://www.bom.gov.au/jsp/ncc/cdio/weatherData/avp_nccObsCode=122&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=086338)/
-       [Melbourne Minimum Daily Temperature Data](http://www.bom.gov.au/jsp/ncc/cdio/weatherData/avp_nccObsCode=123&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=086338) /
+       [Melbourne Maximum Daily Temperature Data](http://www.bom.gov.au/jsp/ncc/cdio/weatherData/avp_nccObsCode=122&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=086338)
+       \
+       [Melbourne Minimum Daily Temperature Data](http://www.bom.gov.au/jsp/ncc/cdio/weatherData/avp_nccObsCode=123&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=086338) 
+       \
      - Victoria Day Length Records
-       [Sunrise and Sunset in Melbourne](https://www.timeanddate.com/sun/australia/melbourne)/
+       [Sunrise and Sunset in Melbourne](https://www.timeanddate.com/sun/australia/melbourne)
+       \
       - Victoria 2016-2020 Public Holidays
        [2016-2020-Australia Public Holidays](https://data.gov.au/dataset/ds-dga-b1bc6077-dadd-4f61-9f8c-002ab2cdff10/details)/
        
