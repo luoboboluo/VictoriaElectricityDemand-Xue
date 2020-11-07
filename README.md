@@ -62,6 +62,7 @@ Inspired by 2020 AEMO Electricity Demand Forecasting Methodology Information Pap
        [AEMO: VIC-30-Min Demand Data](https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data)
    \
    **Features Raw Data have been extracted from public website and resources as below:**
+   \
     -  Daily Max/Min temperature data
     \
        [Melbourne Maximum Daily Temperature Data](http://www.bom.gov.au/jsp/ncc/cdio/weatherData/avp_nccObsCode=122&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=086338)
