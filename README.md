@@ -4,7 +4,7 @@ Victoria Electricity Demand Forecast After Pandemic
 ####  Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is to explore the chane of elctricity demand in Victoria after Covid-19 pandemic. Insights have been given to provide accountable future half-hourly electricity demand. 
+The purpose of this project is to explore the electricity demand change in Victoria after Covid-19 pandemic. Insights have been given to provide accountable future half-hourly electricity demand. 
 
 ### Methods Used
 * Data Visualization
@@ -31,8 +31,7 @@ Inspired by 2020 AEMO Electricity Demand Forecasting Methodology Information Pap
 
 ## Getting Started
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here] within this repo. 
+1. Raw Data:
    Features Raw Data have been extracted from public website and resources as below:
     -  Daily Max/Min temperature data
         max_temp:  [BOM:Daily Maximum Temperature of Station:Melbourne(Olympic Park)](http://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?    
@@ -44,7 +43,7 @@ Inspired by 2020 AEMO Electricity Demand Forecasting Methodology Information Pap
     -  Victoria Public Holidays in 2016-2020
        [2016-2020-Australia Public Holidays](https://data.gov.au/dataset/ds-dga-b1bc6077-dadd-4f61-9f8c-002ab2cdff10/details)
        
-  Target Raw Data have been extracted from AEMO as below:
+   Target Raw Data have been extracted from AEMO as below:
        [AEMO: VIC-30-Min Aggregated Price & Demand Data)](https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-
        data)
 
