@@ -1,10 +1,16 @@
 # Project Name
-Victoria Electricity Demand Forecast After Pandemic
+Victoria Electricity Demand Forecast in Pandemic
 
 ####  Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is to explore the electricity demand change in Victoria after Covid-19 pandemic. Insights have been given to provide accountable future half-hourly electricity demand. 
+The purpose of this project is to explore the electricity demand change in Victoria after Covid-19 pandemic. Insights have been given to provide accountable future half-hourly electricity demand as below:
+Hourly demand profile indicates that due to Covid-19,there is a late morning peak hour from 7 amm to 9 am. 
+Followed with an apparent demand drop down during peak hours 9 am to 18 pm. 
+At night, the peak demand is a little higher than previous years.
+
+Forecast Precision: 
+
 
 ### Methods Used
 * Data Visualization
@@ -25,19 +31,18 @@ Inspired by 2020 AEMO Electricity Demand Forecasting Methodology Information Pap
 
 ## Needs of this project
 
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
+- Data exploration/descriptive statistics
+- Data processing/cleaning
+- Statistical modeling
 
 ## Getting Started
 
 1. Raw Data:
    Features Raw Data have been extracted from public website and resources as below:
     -  Daily Max/Min temperature data
-        max_temp:  [BOM:Daily Maximum Temperature of Station:Melbourne(Olympic Park)](http://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?    
-        p_nccObsCode=122&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=086338)\
+        max_temp:  [BOM:Daily Maximum Temperature of Station:Melbourne(Olympic Park)](http://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?p_nccObsCode=122&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=086338)
         min_temp:   [BOM:Daily Minimum Temperature of Station:Melbourne(Olympic Park)](http://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?
-        p_nccObsCode=123&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=086338)\
+        p_nccObsCode=123&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=086338)
     -  Victoria Day Length Records
        [Sunrise and Sunset in Melbourne](https://www.timeanddate.com/sun/australia/melbourne)
     -  Victoria Public Holidays in 2016-2020
