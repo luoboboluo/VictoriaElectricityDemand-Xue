@@ -56,7 +56,7 @@ Inspired by 2020 AEMO Electricity Demand Forecasting Methodology Information Pap
 
 ## Getting Started
 
-1. Data Resources:
+**1. Data Resources:**
 
    Features Raw Data have been extracted from public website and resources as below:
     -  Daily Max/Min temperature data
@@ -73,8 +73,8 @@ Inspired by 2020 AEMO Electricity Demand Forecasting Methodology Information Pap
    Target Raw Data have been extracted from AEMO as below:
        [AEMO: VIC-30-Min Demand Data](https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data)
 
-3. Data processing/transformation scripts are being kept [1_Data Extraction and Preprocessing.ipynb] within this repo.
-4. Feature Engineering and Modelling are being kept [2_Feature Engineering and Modelling.ipynb] within this repo.
+**3. Data processing/transformation scripts are being kept [1_Data Extraction and Preprocessing.ipynb] within this repo.**
+**4. Feature Engineering and Modelling are being kept [2_Feature Engineering and Modelling.ipynb] within this repo.**
 
 
 
