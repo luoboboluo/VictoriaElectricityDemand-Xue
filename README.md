@@ -1,7 +1,7 @@
 # Project Name
 Victoria Electricity Demand Forecast After Pandemic
 
-#### -- Project Status: [Completed]
+####  Project Status: [Completed]
 
 ## Project Intro/Objective
 The purpose of this project is to explore the chane of elctricity demand in Victoria after Covid-19 pandemic. Insights have been given to provide accountable future half-hourly electricity demand. 
