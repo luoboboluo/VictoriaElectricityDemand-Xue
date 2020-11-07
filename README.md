@@ -37,7 +37,8 @@ Inspired by 2020 AEMO Electricity Demand Forecasting Methodology Information Pap
 
 ## Getting Started
 
-1. Raw Data:
+1. Data Resources:
+
    Features Raw Data have been extracted from public website and resources as below:
     -  Daily Max/Min temperature data
     
