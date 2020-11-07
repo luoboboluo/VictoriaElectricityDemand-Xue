@@ -40,9 +40,8 @@ Inspired by 2020 AEMO Electricity Demand Forecasting Methodology Information Pap
 1. Raw Data:
    Features Raw Data have been extracted from public website and resources as below:
     -  Daily Max/Min temperature data
-        max_temp:  [BOM:Daily Maximum Temperature of Station:Melbourne(Olympic Park)](http://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?p_nccObsCode=122&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=086338)
-        min_temp:   [BOM:Daily Minimum Temperature of Station:Melbourne(Olympic Park)](http://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?
-        p_nccObsCode=123&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=086338)
+        max_temp: [BOM:Melbourne(Olympic Park)](http://www.bom.gov.au/jsp/ncc/cdio/weatherData/avp_nccObsCode=122&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=086338)
+        min_temp:   [BOM:Melbourne(Olympic Park)](http://www.bom.gov.au/jsp/ncc/cdio/weatherData/avp_nccObsCode=123&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=086338)
     -  Victoria Day Length Records
        [Sunrise and Sunset in Melbourne](https://www.timeanddate.com/sun/australia/melbourne)
     -  Victoria Public Holidays in 2016-2020
