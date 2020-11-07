@@ -58,7 +58,7 @@ Inspired by 2020 AEMO Electricity Demand Forecasting Methodology Information Pap
 
 **1. Data Resources:**
 \
-   **Target Raw Data have been extracted from AEMO as below:**
+   **Target Raw Data have been extracted from AEMO :**
        [AEMO: VIC-30-Min Demand Data](https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data)
    \
    **Features Raw Data have been extracted from public website and resources as below:**
