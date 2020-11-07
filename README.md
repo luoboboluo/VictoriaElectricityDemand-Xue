@@ -41,15 +41,16 @@ Inspired by 2020 AEMO Electricity Demand Forecasting Methodology Information Pap
    Features Raw Data have been extracted from public website and resources as below:
     -  Daily Max/Min temperature data
         max_temp: [BOM:Melbourne(Olympic Park)](http://www.bom.gov.au/jsp/ncc/cdio/weatherData/avp_nccObsCode=122&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=086338)
+        
         min_temp:   [BOM:Melbourne(Olympic Park)](http://www.bom.gov.au/jsp/ncc/cdio/weatherData/avp_nccObsCode=123&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=086338)
+        
     -  Victoria Day Length Records
        [Sunrise and Sunset in Melbourne](https://www.timeanddate.com/sun/australia/melbourne)
     -  Victoria Public Holidays in 2016-2020
        [2016-2020-Australia Public Holidays](https://data.gov.au/dataset/ds-dga-b1bc6077-dadd-4f61-9f8c-002ab2cdff10/details)
        
    Target Raw Data have been extracted from AEMO as below:
-       [AEMO: VIC-30-Min Aggregated Price & Demand Data)](https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-
-       data)
+       [AEMO: VIC-30-MinDemand Data)](https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data)
 
 3. Data processing/transformation scripts are being kept [1_Data Extraction and Preprocessing.ipynb] within this repo.
 4. Feature Engineering and Modelling are being kept [2_Feature Engineering and Modelling.ipynb] within this repo.
