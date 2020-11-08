@@ -75,8 +75,9 @@ Inspired by 2020 AEMO Electricity Demand Forecasting Methodology Information Pap
       - Victoria 2016-2020 Public Holidays
        [2016-2020-Australia Public Holidays](https://data.gov.au/dataset/ds-dga-b1bc6077-dadd-4f61-9f8c-002ab2cdff10/details)
        
-**3. Data processing/transformation scripts are being kept [1_Data Extraction and Preprocessing.ipynb] within this repo.**
-**4. Feature Engineering and Modelling are being kept [2_Feature Engineering and Modelling.ipynb] within this repo.**
+**2. Data processing/transformation scripts are being kept [1_Data Extraction and Preprocessing.ipynb] within this repo.**\
+
+**3. Feature Engineering and Modelling are being kept [2_Feature Engineering and Modelling.ipynb] within this repo.**
 
 
 
