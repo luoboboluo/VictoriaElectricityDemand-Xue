@@ -3,7 +3,7 @@
 
 ####  Project Status: [Completed]
 
-## Project Intro/Objective
+## Project Objective
 The purpose of this project is to explore the electricity demand change in Victoria after Covid-19 pandemic. Insights have been given to provide accountable future half-hourly electricity demand as below:
 
 **Exploratory Data Analysis:**
