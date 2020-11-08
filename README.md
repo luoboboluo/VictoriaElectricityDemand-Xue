@@ -10,7 +10,7 @@ The purpose of this project is to explore the electricity demand change in Victo
 
 * Hourly demand profile indicates that due to Covid-19, there is a late morning peak hour from 7 am to 9 am. 
   Followed with an apparent demand drop down during peak hours 9 am to 18 pm. 
-  At night, the peak demand is a little higher than previous years.
+  At night, the peak demand is slightly higher than that for previous years.
  
 <p align="center"> 
 <img width="436" alt="VIC2016-2020 Daily Profile" src="https://user-images.githubusercontent.com/48660936/98435747-a1fcb100-2129-11eb-95e1-02743a448041.png">
