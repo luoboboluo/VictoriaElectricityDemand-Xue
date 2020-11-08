@@ -8,7 +8,7 @@ The purpose of this project is to explore the electricity demand change in Victo
 
 **Exploratory Data Analysis:**
 
-* Hourly demand profile indicates that due to Covid-19,there is a late morning peak hour from 7 amm to 9 am. 
+* Hourly demand profile indicates that due to Covid-19, there is a late morning peak hour from 7 amm to 9 am. 
   Followed with an apparent demand drop down during peak hours 9 am to 18 pm. 
   At night, the peak demand is a little higher than previous years.
  
