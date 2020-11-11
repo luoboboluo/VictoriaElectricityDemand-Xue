@@ -48,11 +48,11 @@ Inspired by 2020 AEMO Electricity Demand Forecasting Methodology Information Pap
 
 
 
-## Needs of this project
+## Needs for this project
 
 - Data exploration/descriptive statistics
 - Data processing/cleaning
-- Statistical modeling
+- Statistical modelling
 
 ## Getting Started
 
